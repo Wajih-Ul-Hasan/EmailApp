@@ -1,1 +1,1 @@
-🚀 Email Project | Everything about handling Email in production | Spring Boot 3.1
+🚀 Email Project | Everything About Handling Email In Production | Spring Boot 3.1
