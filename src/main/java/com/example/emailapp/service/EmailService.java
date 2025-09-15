@@ -14,3 +14,4 @@ public interface EmailService {
 
     void SendWithFile(String to , String Subject , String Text , File file) throws MessagingException;
 }
+
